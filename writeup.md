@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 [image2]: ./test_images/straight_lines1.jpg "Road Transformed"
 [image3]: ./output_images/binary.jpg "Binary image"
 [image4]: ./output_images/warped.jpg "Warp Example"
-[image5]: ./output_images/fit_lines.jpg "Fit Visual"
+[image5]: ./output_images/fit_lines.JPG "Fit Visual"
 [image6]: ./output_images/final_output.jpg "Output"
 [video1]: ./project_video_result.mp4 "Video"
 
